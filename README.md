@@ -65,5 +65,3 @@ If this repository supports your work, please cite the GitHub repository directl
 	url          = {https://github.com/modhudeb/histopathology-cancer-cell-multiclass}
 }
 ```
-
-## License
