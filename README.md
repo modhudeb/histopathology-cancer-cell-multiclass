@@ -40,7 +40,6 @@ The project is centered on one practical question: how robust are model features
 2. Run the notebook from top to bottom.
 3. Review the generated plots in `images/`.
 4. Compare the baseline and proposed-model outputs.
-5. Use the LaTeX folder when you are ready to assemble the paper.
 
 ## Current Research Direction
 The study compares standard preprocessing assumptions against a no-normalization workflow, then evaluates whether the model can still preserve strong class separation and stable feature extraction. The figures in this repository are organized to support that story from EDA to final results.
